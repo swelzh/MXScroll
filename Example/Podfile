@@ -1,5 +1,6 @@
 
-source 'https://github.com/CocoaPods/Specs.git'  # 官方库
+source 'https://cdn.cocoapods.org/'
+# source 'https://github.com/CocoaPods/Specs.git'  # 官方库
 # source 'https://git.coding.net/cillyfly/CCPod.git'   # 私有库
 use_frameworks!
 

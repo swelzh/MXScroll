@@ -1,0 +1,6 @@
+framework module Pods_MXScroll_Tests {
+  umbrella header "Pods-MXScroll_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
